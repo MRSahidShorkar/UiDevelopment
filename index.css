@@ -1,0 +1,351 @@
+.background-child {
+  position: absolute;
+  top: 139px;
+  left: 0;
+  border-radius: var(--br-21xl) var(--br-21xl) 0 0;
+  background: linear-gradient(-72.85deg, #efafbc, #c3e2fa);
+  width: 1440px;
+  height: 800px;
+}
+.background-item {
+  position: absolute;
+  top: 0;
+  left: 197px;
+  width: 933.8px;
+  height: 1077.2px;
+  object-fit: contain;
+}
+.background,
+.vector-icon {
+  position: absolute;
+  top: -39px;
+  left: 0;
+  width: 1440px;
+  height: 1077.2px;
+}
+.vector-icon {
+  height: 72.73%;
+  width: 22.93%;
+  top: 13.64%;
+  right: 77.07%;
+  bottom: 13.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.store {
+  position: absolute;
+  top: 0;
+  left: 59px;
+  font-weight: 600;
+}
+.logo,
+.menus-child {
+  position: absolute;
+  left: 0;
+}
+.logo {
+  height: 59.46%;
+  width: 12.27%;
+  top: 0;
+  right: 87.73%;
+  bottom: 40.54%;
+}
+.menus-child {
+  top: 57px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-skyblue-100);
+  width: 59px;
+  height: 6px;
+}
+.about-us,
+.home,
+.shop {
+  top: 0;
+  text-transform: uppercase;
+}
+.home {
+  position: absolute;
+  left: 0;
+  font-weight: 800;
+  color: var(--color-skyblue-100);
+}
+.about-us,
+.shop {
+  font-weight: 600;
+}
+.about-us {
+  position: absolute;
+  left: 137px;
+}
+.shop {
+  left: 307px;
+}
+.contact,
+.menus,
+.shop {
+  position: absolute;
+}
+.contact {
+  top: 0;
+  left: 440px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.menus {
+  top: 11px;
+  left: 650px;
+  width: 530px;
+  height: 63px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray);
+}
+.cart-icon {
+  position: absolute;
+  height: 41.22%;
+  width: 2.5%;
+  top: 8.11%;
+  right: 0;
+  bottom: 50.68%;
+  left: 97.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.header {
+  position: absolute;
+  height: 8.22%;
+  width: 88.89%;
+  top: 3.22%;
+  right: 5.56%;
+  bottom: 88.56%;
+  left: 5.56%;
+  font-size: 36px;
+}
+.outfit-of-the {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.27em;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+}
+.span {
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+}
+.all-your {
+  margin: 0;
+}
+.styles-are-here {
+  margin: 0;
+  font-weight: 800;
+}
+.all-your-styles-container {
+  position: absolute;
+  top: 51px;
+  left: 0;
+  font-size: 64px;
+  letter-spacing: 0.05em;
+  line-height: 85px;
+  text-transform: uppercase;
+  color: #444;
+}
+.consectetur-adipiscing-elit {
+  position: absolute;
+  top: 244px;
+  left: 0;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 500;
+  color: #656565;
+  display: inline-block;
+  width: 529px;
+  height: 108px;
+}
+.title {
+  position: absolute;
+  top: 265px;
+  left: 80px;
+  width: 658px;
+  height: 352px;
+  font-size: 24px;
+  color: var(--color-white);
+}
+.button-cta-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 7px 20px rgba(121, 188, 207, 0.4);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  width: 230px;
+  height: 50px;
+}
+.button-cta-item {
+  position: absolute;
+  top: 19px;
+  left: 174px;
+  width: 7px;
+  height: 12px;
+}
+.buy-now {
+  position: absolute;
+  top: 14px;
+  left: 49px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.button-cta {
+  position: absolute;
+  top: 656px;
+  left: 82px;
+  width: 230px;
+  height: 50px;
+  color: var(--color-skyblue-100);
+}
+.jaket-1-child,
+.thumbnail-jaket-icon {
+  position: absolute;
+  top: 180px;
+  left: 774px;
+  width: 765px;
+  height: 535px;
+}
+.jaket-1-child {
+  top: 72px;
+  left: 7px;
+  box-shadow: 0 10px 25px rgba(152, 196, 228, 0.35);
+  border-radius: 20px;
+  background-color: var(--color-white);
+  width: 260px;
+  height: 85px;
+}
+.jaket-1-2 {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  width: 118px;
+  height: 118px;
+  object-fit: cover;
+}
+.casual-jaket,
+.div,
+.div1 {
+  position: absolute;
+  left: 118px;
+}
+.casual-jaket {
+  top: 87px;
+  font-weight: 500;
+}
+.div,
+.div1 {
+  top: 118px;
+}
+.div1 {
+  top: 123px;
+  left: 172px;
+  font-size: 12px;
+}
+.jaket-1-inner,
+.jaket-1-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.jaket-1-item {
+  top: 131px;
+  left: 168px;
+  border-top: 1px solid #ff5757;
+  width: 37px;
+  height: 1px;
+}
+.jaket-1-inner {
+  top: 0;
+  left: 43px;
+  box-shadow: 0 3px 7px rgba(0, 0, 0, 0.18);
+  border-radius: 50%;
+  background-color: #80c7d9;
+  border: 3px solid var(--color-white);
+  width: 32px;
+  height: 32px;
+}
+.jaket-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 267px;
+  height: 157px;
+}
+.jaket-2-icon,
+.jaket-3-icon {
+  position: absolute;
+  top: 7px;
+  left: 321px;
+  width: 105px;
+  height: 158px;
+}
+.jaket-3-icon {
+  left: 512px;
+}
+.dot-icon,
+.sub-product {
+  position: absolute;
+  top: 13px;
+  left: 87px;
+  width: 465.9px;
+  height: 7px;
+}
+.sub-product {
+  top: 700px;
+  left: 724px;
+  width: 617px;
+  height: 165px;
+  color: var(--color-black);
+}
+.biinstagram-icon,
+.group-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.group-icon {
+  height: 100%;
+  width: 19.05%;
+  right: 40.48%;
+  bottom: 0;
+  left: 40.48%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.send-icon,
+.social {
+  position: absolute;
+  height: 32px;
+}
+.send-icon {
+  top: 0;
+  left: 136px;
+  width: 32px;
+  overflow: hidden;
+}
+.social {
+  top: 806px;
+  left: 91px;
+  width: 168px;
+}
+.fashion-landing-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: #5f5f5f;
+  font-family: var(--font-montserrat);
+}
